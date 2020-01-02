@@ -1,0 +1,28 @@
+MORE THAN A MEMORY: THE PERFECT EXISTANCE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+HACKER:		Kojichao (KojiChaos, of site Project Shadow)
+CATEGORY:	Sprite hack, Unique hack, (Random fun hack! ^,^), Beginner
+THEME:		Shadow the Hedgehog, and Chao
+HACKED GAME:	Sonic 2
+TOOLS:		SHWP, HexEditor, Tile Layer Pro, CoolEdit, Paint.
+NOTES:		Just like every other Shadow hack out there...
+WEBPAGE:	http://garm.dyndns.org/kojichan/ps/
+CREDIT:		Dr. Ivo, Saxman, Luigi_Link, Stealth, X64, Esrael
+
+- A Shadow the Hedgehog Sprite hack of Sonic 2.  
+- Pallets were Changed to the levels I did the most work in, (ARZ, for example.)
+- Very few level layouts worked on, due to lack of a real level editor.
+- Object layouts in a few areas altered.
+- Mostly just a Sprite hack.  75% of Sonic and Tails were modified, 
+- Super Sonic is planned next. XD
+- Random things hacked, for neat features...  
+- Mostly just pallets, which were found manually and edited via Hex Editor, except 
+   for one or two random pallets done in SHWP.
+- Level Order rearranged
+- Level Order shortened to 4 stages(Cause I thought I'd at LEAST edit 4 stages for 
+   the hacking contest...)
+- Music edited a bit... Tempo changes, really...
+- Some Random things I've completely forgotten. ^_^;;;
+- Level Select code: 19, 73, 05, 19
+- 14 Continues: 43, 48, 41, 4F (Hex for CHAO)

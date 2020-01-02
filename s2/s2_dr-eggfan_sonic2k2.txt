@@ -1,0 +1,515 @@
+########################################################################### 
+##     ###     ###    ##    #    ####    ##       ###    ##    ##       ###
+#      ##       ##    ##    #    ###     ##        ##    ##    ##        ##
+#      #         #     #    #    ##      ##         #    #    ###         #
+#   ####     #   #     #    #    #     ####         #    #    ###         #
+#      #    ##   #          #    #    ###########   #        ##########   #
+####   #    #    #          #    #    ########      #        #######      #
+#      #         #    #     #    #       ####      ##       #######      ##
+#      ##       ##    #     #    ##      ###      ###        #####      ###
+#     ####     ###    ##    #    ###     ##      ####        ####      #### 
+##########################################    #######    #    ##    #######
+##########################################          #    #    ##          #          
+##########################################          #    ##    #          #
+##########################################          #    ##    #          #
+###########################################################################
+
+SONIC 2K2
+
+In Commemoration of the Aluminium (10th) Anniversary of Sonic 2
+
+###########################################################################
+
+Author: Dr. Eggfan (i_am_the_eggfan@hotmail.com)
+Category: Palette hack, level layout hack and soon to be sprite hack
+Hacked Game: Sonic 2
+Tools Used: SHWP1 and 2, E.L.E., XVI32 (hex editor), Paint
+
+Current Version: Phase One 
+Released: 17th September 2002 
+(Yuji Naka's, creator of Sonic, 37th Birthday)
+
+Coming Soon!
+Phase Two
+Due Date: 24th November 2002 (expected to slip)
+(The Legendary Sonic Two-sday, release date of Sonic 2, 1992)
+  
+###########################################################################
+
+INTRODUCTION
+
+###########################################################################
+
+::::::::::::::::::
+What is Sonic 2K2?
+::::::::::::::::::
+
+This is a patch for the classic Sonic the Hedgehog 2 ROM. It is an 
+earnest attempt to try and create a completely new game environment and 
+story. However, I am a complete novice, so don't expect miracles for a 
+long time but I am learning as I go along.
+
+
+::::::::::::::::
+What is Sonic 2?
+::::::::::::::::
+
+It is the second in the Sonic the Hedgehog series for the now ancient Sega
+Mega Drive/Genesis. This patch will probably only appeal to those who have 
+played the original before - Nostalgia is a powerful thing, but may appeal 
+to some who have been introduced to the Sonic universe only recently. I 
+myself have been a long time Sonic/Sega Fan, who owns just about every 
+Sonic game from the first to Sonic Adventure 2. 
+
+I remember the first time I played Sonic 2. It was on holidays on a trip to
+the beach from our inland home. I had convinced mum to hire a Mega Drive
+with Sonic 2 from the local video store. I then began playing it about 6am 
+the next morning and did not move from in front of TV until about midday 
+when mum came over and pulled the plug, telling me to get out and enjoy 
+the beach. That was what we were there for, but I was so mad, having 
+invested so much time in my battle up to Metropolis Zone with 6 of the 7 
+Chaos Emeralds. I would have killed for a save game feature or the level 
+select cheat. Oh those were the good old days.
+
+###########################################################################
+
+HISTORY 
+
+###########################################################################
+
+::::::
+Phases
+::::::
+
+Phase One: 
+Collect Underpants
+No, wait, that's a different project
+
+Phase One: Colours, Text and Level Order
+		* See Below
+		* Current version Incomplete 
+			- Level Select Text and Order yet to be changed
+Phase Two: Sprites
+		* Sonic Sprite (15% Complete)
+		* Tails Sprite
+		* Tornado/Typhoon Sprite
+		* Monitors
+		* Miscellaneous
+		
+Phase Three: Level Layout
+		* New multi-path level designs for every level to suit 
+		  the new zone themes
+
+:::::::::::
+What's New?
+:::::::::::
+
+* Every palette has been changed. And I mean every palette!
+	- All zone palettes changed
+	- Title Screen and Menu palettes changed
+	- Special Stage palette has changed
+	- Super Sonic/Eternal Sonic palette has changed
+* Zone themes have completely changed, some to the opposite end of the 
+  spectrum! See below.
+* The BGM Playlist has changed to suit the new zone themes
+* Level Splash up text has changed to the new zone names
+* Level Order has been rearranged
+* Death Egg Zone/Omega Egg Zone has a new and very difficult level layout.
+	
+**** N.B. Please be patient with Metal Sonic. It isn't a glitch.*********** 
+****      He will eventually come down and fight. And when he   ***********
+****	  does, Whoa boy watch out! He is the hardest Sonic boss*********** 
+****	  ever, even harder than the giant Eggman robot!! I'd   ***********
+****	  recommend using the save state option, but only if   ***********
+****	  you're a wimp (like me!)                              ***********
+
+* Wood Zone/Tree Top Zone and Hidden Palace/Magma Cove Zone are now 
+  selectable from the level select thanks to Esrael's Level Editor, but
+  not very playable.
+* Secret codes have been changed, and I'm not telling you to what!
+* Changes to intro text.
+
+###########################################################################
+
+INSTRUCTIONS
+
+###########################################################################
+
+::::::::::::::::::::
+How to patch the ROM
+::::::::::::::::::::
+
+Most of you out there will know exactly what to do with this patch. Take 1
+Sonic 2 Rom, available from www.sonicroms.co.uk, but legally only to those
+who own the original cartridge. Use Stealth's excellent Spatch utility, 
+available from sonicology.fateback.com, and apply the S2K2Ph1.ips file to the 
+original ROM, making sure that it is in a binary format. Then run the patched 
+file on your favourite Genesis/Mega Drive Emulator. It's that simple.
+
+::::::::
+CONTROLS
+::::::::
+
+Directional buttons = move 
+Any trigger button = jump
+Start button = Start
+Down + repeated bashing of any trigger button = spin dash
+     
+###########################################################################
+
+STORY
+
+###########################################################################
+
+Sonic: "Good Bye, Shadow the Hedgehog."
+
+	Sonic exits the bridge of the Space Colony ARK, to catch up with 
+	his friends on their way to the shuttle for their journey home...
+
+	Well, at least all but one of the party were his friends.
+
+Eggman: "Out of my way, Fox Boy!"
+
+Tails: "Oooof!"
+
+	Eggman shoves Tails out of the way as he storms ahead of the others 
+	and shuts the blast door behind him.
+
+Amy: "Sonic, Eggman's getting away!"
+
+	However, Tails is first to the door. 
+
+Tails: "It's locked!"
+
+Sonic: "Shoot!"
+
+Amy: "I wonder why he was in such a hurry?"
+
+	After a short silence, realisation dawns.
+
+Knuckles: "Oh no! I left the Master Emerald in the Eclipse Cannon Shrine."
+
+Rouge: "And my seven Chaos Emeralds are there too."
+
+	Knuckles gives Rouge a steely glare.
+
+Rouge: "Well, at least one of them is mine after all the work I did to save 
+the planet and all."
+
+	Sonic bangs against the door.
+
+Sonic: "Darn it! He can't get away with this."
+
+	However, the ARK's early warning defence system informs them of 
+	another problem.
+
+ARK: "Warning. Unidentified ship approaches. Warning..."
+
+	The heroes return to the bridge. An astronaut with G.U.N. 
+	identification appears on the monitor. 
+
+G.U.N. Agent: "Attention Space Station ARK, All personnel on board are wanted 
+for questioning. Resistance will be met by force. This is your first and final
+warning. Repeat, All personnel on board are wanted..."
+
+Sonic: "Those guys just never give up. Tails, how long will it take for 
+'our friends' to arrive."
+
+Tails: "According to this readout, about 39 minutes."
+
+Sonic: "Shoot! That's too long. Eggman will be long gone. Is there any other way
+off the bridge? An air vent? Anything?"
+
+	Tails makes the enquiry on the bridges computer.
+
+Tails: "No."
+
+	Suddenly, Eggman's maniacally happy smile greeted them on the monitors.
+ 
+Eggman: "Ahahahahahahahaha! I've finally done it! I can't believe it! I have all 
+of the Chaos Emeralds AND the Master Emerald AND No one, not even you Sonic, can 
+stop me! Ahahahahahaha Woohoohoho hahahahahahaha!
+
+Sonic: "Eggman, you creep! It's not over yet. I'll get you."
+
+Eggman: "Oh but it is over. I have won!! ahahahahahaha I won! I now possess the 
+world's ultimate power in my hands and you are powerless to stop me. 
+Woahahahahahahhahahaha!"
+
+	They all look out the window to see their only transport leave the 
+	colony and back to the planet below.
+
+Tails: "He's getting away!"
+
+Knuckles: "And there is nothing we can do to stop him."
+
+Sonic: "Tails, where is he heading?"
+
+	Tails makes some inputs into the computer.
+
+Tails: "He's headed for the Great Southern Ocean. He's - What the?!?"
+
+Rouge: "The shuttle..."
+
+Amy: "It disappeared."
+
+	Indeed the shuttle slowly disappeared from view.
+
+Sonic: "Tails, what happened?"
+
+Tails: "I don't know. He must have some sort of cloaking device. I can't determine 
+his flight path."
+
+Eggman: "Adieu. Until we meet again my friends ahahaahaha."
+
+	The transmission ends.
+
+Amy: "Now what do we do?"
+
+	After a short silence, Knuckles lowers himself to the floor.
+
+Knuckles: "I guess we just wait until the cavalry arrives."
+
+Sonic: "What about your precious Master Emerald. Aren't you supposed to protect it?"
+
+Knuckles: "With Patience, success is ensured. When G.U.N. takes us back to Earth, 
+I'll use my ability to sense the Master Emerald to find Eggman before he gets a 
+chance to learn the secrets of Chaos." 
+
+	One by one the party accept defeat and join Knuckles on the floor. Sonic is 
+	the last one standing.
+
+Sonic: "But we can't let Eggman get away."
+
+Amy: "Sonic. We're trapped. We can't do anything."
+
+	Sonic looks at Amy, then looks at his other friends. She was right, 
+	and they all knew it.
+
+Sonic "Aw Shoot!"
+
+-------------------------------------------------------------------------------------- 
+
+Stay tuned for the next exciting instalments featuring:
+	- Eggman fulfils his Dreams and his Legacy
+	- The Hierarchy of the Three Elements of Existence
+	- The Legend of the Ultimate Hero 
+
+######################################################################################
+
+THE ZONES
+
+######################################################################################
+
+ ____________________ 
+|     /              | Sonic and Tails begin their quest in the marble gardens of this   
+|     \	             | holiday resort on the beach of South Island. Speed through the   
+|     /	 CORAL COAST | coastal vegetation along the surface, or take a dip in the warm 
+|     \        ZONE  | waters of the coral reef. Just watch out for Eggman's booby  
+|     /              | traps! The forest of Tree Top Zone can be seen in the distance.
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+
+ ____________________ 
+|     /              | (Zone not yet playable but selectable through the level select) 
+|     \	             | Sonic and Tails follow Eggman inland, gliding through the hidden  
+|     /	    TREE TOP | village high in the eucalypt and wattle forest of Tree Top Zone.   
+|     \        ZONE  | The sweet smell is inviting, but our heroes have a job to do.  
+|     /              | They must stop Eggman!
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Taking a short cut through the harsh and unforgiving plains of 
+|     \	             | Outback Flat Zone, our heroes hope to overtake Eggman, but he 
+|     /	OUTBACK FLAT | is always one step ahead of them. The salt lake glistens in the  
+|     \        ZONE  | arid heat as our heroes race across the dry grass and red earth. 
+|     /              | Watch out for badniks and deep opal mine shafts (to be included 
+|     \______________| later).
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Sonic and Tails must be getting close to Eggman's city 
+|     \	             | "Robotnikland." He has sent his badnik's out to torch the 
+|     /	    BUSHFIRE | surrounding alpine forest. The resulting bushfire has reduced  
+|     \        ZONE  | the plants to ashes and the air is thick with smoke. Parts of  
+|     /              | the forest are still alight so be careful.
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | (Zone not yet playable but selectable through the level select)
+|     \	             | To supply enough power to "Robotnikland," the world's ultimate 
+|     /	  MAGMA COVE | city, Eggman used the Chaos Emerald to create this artificial 
+|     \        ZONE  | volcano as part of a geothermal power plant. It also doubles as    
+|     /              | the city's preliminary level of defence. If the intense heat   
+|     \______________| does not stop our heroes, the traps and badnik's will. Be 
+|     /     SONIC2K2 | Careful!
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Robotnikland's defences are supposedly impenetrable, but Tails
+|     \	             | discovered access to this Abandoned Subway underneath the city.
+|     /	 LOST SUBWAY | This zone is dark and dank, but allows our heroes to show off
+|     \        ZONE  | their amazing speed across rickety railroads and crumbling
+|     /              | bridges
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Ascending into the city from the Lost Subway Zone, our heroes
+|     \	             | find themselves in the thick of Robotnikland's first primary
+|     /	FLIPPER FORT | level of defence, the Flipper Fort Zone. Eggman has learned
+|     \        ZONE  | from past experience about the effectiveness of bumpers and 
+|     /              | flippers against whirling intruders, and this giant pinball
+|     \______________| table is the most devilish ever. You have been warned! The heart
+|     /     SONIC2K2 | of the city can be seen in the distance.
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Stage 2 of the city's defence has a misleading presentation.
+|     \	             | Carousal Zone is filled with glittering lights and bright 
+|     /	    CAROUSAL | friendly colours, but this clockwork "fun park" is anything 
+|     \        ZONE  | but fun. Gnashing cogs and dizzying drums and bumpers are some 
+|     /              | of the dangers that lie within, but beware of the scariest 
+|     \______________| hazard of all, pits of molten blue fairy floss!!
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | The heart of the city is an intricate tangle of cables and wires.
+|     \	             | Our heroes must find a way through this maze of telecommunications
+|     /FIBREOPTICITY | and pollution quickly, before Eggman finally unleashes the power of 
+|     \        ZONE  | chaos.
+|     /              |
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | (Currently unavailable) 
+|     \	             | Our Heroes have made it into Eggman's secret stronghold, his Council
+|     /ROYAL CHAMBER | Chambers. This is where Eggman controls the entire mechatronic
+|     \        ZONE  | Robotnikland City, and his quantum computer is powered by none other 
+|     /              | than the Master Emerald. Could this be Sonic's final fight?
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Sonic and Tails narrowly escape death after Eggman tried to rid 
+|     \	             | himself of the blue one forever by self-destructing his beloved    
+|     /	     HARBOUR | city. The Duo pursue Eggman into the Harbour Zone on the former 
+|     \        ZONE  | city's outskirts. The large scale of the scaffolding in the area 
+|     /              | suggest that Eggman has been engaged in a some sort of grand 
+|     \______________| project. Just what has he been building? 
+|     /     SONIC2K2 | 
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | Following Eggman below the surface of the Harbour Zone, Sonic and 
+|     \	             | Tails chase him to the depths of the Great Southern Ocean in  
+|     /	    DEEP SEA | Tails' latest creation, the Typhoon submarine. Don't worry, Sonic
+|     \        ZONE  | has been fitted with a replica of the air necklace Knuckles has 
+|     /              | in Sonic Adventure 2, so there is no risk of drowning, but there
+|     \______________| are numerous other perilous traps to survive, so watch out!
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | So this is what Eggman was building in Harbour Zone, a massive 
+|     \	             | nuclear submarine. Sonic must go it alone on board and disable 
+|     /	  ATOMIC SUB | the vessels' immense destructive power - the power of Chaos.
+|     \        ZONE  |
+|     /              |
+|     \______________|
+|     /     SONIC2K2 |
+|     \              |
+|_____/______________|
+
+ ____________________ 
+|     /              | It looks as if the Atomic Sub was not the only project Eggman was
+|     \	             | creating at Harbour Zone. He has also built a giant secret laboratory,
+|     /	   OMEGA EGG | hidden on the bottom of the ocean, the Omega Egg. So this is where he
+|     \        ZONE  | has been hiding for the last six months, studying the powers of the 
+|     /              | Chaos and Master Emeralds. The bottom of the sea is dark and dreary,
+|     \______________| the only light is given off by the luminous plankton swarming around 
+|     /     SONIC2K2 | the hidden lair. Prepare for a battle of epic proportions against 
+|     \              | Eggman's most heinous inventions yet, the Metal Sonic Mk II, and  
+|_____/______________| the Golden Egg.
+
+ ____________________ 
+|     /              | When Sonic collects 50 rings and enters the Star warp, he must 
+|     \	             | travel through the Eternal Space zone in search of the 
+|     /ETERNAL SPACE | seven Space Crystals. When he has all seven, he can change into
+|     \        ZONE  | Eternal Sonic, infused with the infinite and vast power of   
+|     /              | space. He radiates with the deadly glow of a black hole and 
+|     \______________| just may have enough power to defeat Eggman and the Chaos 
+|     /     SONIC2K2 | Emeralds.
+|     \              |
+|_____/______________|
+
+
+
+###################################################################################### 
+
+SPECIAL THANKS
+
+######################################################################################
+
+- Sonic Team/Sega for the original game, concept and characters
+	- Please note, all of you litigious people out there, the original game, 
+	  concept, characters, symbols and whatever else are copyrighted, trademarked 
+	  and owned by Sega Enterprises Ltd. and/or Sonic Team and not by me, lowly 
+	  hacker Dr. Eggfan. I am in no way pretending that this material is my own, 
+	  and I fully credit Sega and Sonic Team for the use of their intellectual 
+	  property. In fact, any ideas that may be argued as my own would not exist 
+	  without the universe that Sonic Team/Sega created in the first place. The 
+	  material is used without express permission but with no intention of harming 
+	  Sega/Sonic Team nor in any attempt to make money. It is merely a fan made 
+	  game generated in honour and admiration of Sega/Sonic Team's work, and is 
+	  distributed freely without diverting any funds away from Sega that is 
+	  rightfully theirs. Also Any similarity between the stories created for this 
+	  game and any future Sonic game is purely coincidental. 
+- Gerbil, for the excellent Sonic HackingWiz Pro 1 and 2 
+- Christian Maas, for the superb, and free, Hex Editor XVI32
+- Esrael, for the brilliant Esrael Level Editor E.L.E.
+- Mystic and Ultima, for technical support and encouragement.
+
+
+######################################################################################
+
+CONTACT ME
+
+######################################################################################
+
+Please feel free to send comments, suggestions, corrections and whatever else to my
+email and I'll do my best to get back to you.
+
+i_am_the_eggfan@hotmail.com 
+
+######################################################################################
+   _____
+  / o o \   "Adieu. Until we meet again my friends. Muahahahaha!"
+ >>> O <<<
+  \_____/    Dr. Eggfan 
+
+######################################################################################	

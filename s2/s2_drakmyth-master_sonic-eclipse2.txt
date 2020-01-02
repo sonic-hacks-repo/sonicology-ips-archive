@@ -1,0 +1,86 @@
+Sonic Eclipse 2 V1.0 Readme - 3/9/03
+---------------------------
+1.) Table of Contents
+
+1 - Table of Contents
+2 - History
+3 - Storyline
+4 - Characters
+5 - Bugs
+6 - Completion
+7 - Special Thanks
+8 - Last Minute Stuff
+9 - Legal Crap
+---------------------------
+2.) History
+
+V1.0 - First public release. Many bugs.
+---------------------------
+3.) Storyline
+
+Sonic is still his red color and has not
+yet found a way to return to his dimension.
+Although he believes that he is getting
+closer to a solution. He has already attempted
+one major attack on Eggman but Eggman had escaped
+at the last second. Now Sonic is ready for his
+second attack.
+---------------------------
+4.) Characters
+
+Sonic
+Tails
+Eggman
+Metal Sonic
+---------------------------
+5.) Bugs
+
+Currently the biggest bug is about halfway through
+Emerald Hill 1. You will notice a block of scrambled
+text floatng in the air. I have no idea what is
+causing this and so I cannot change it. I am assuming
+that I missed an Unknown Object somewhere and I am
+looking for something that is cusing this to happen.
+
+Last I checked there were a few glitches with platform
+solidity. Mainly you could walkthrough some walls and
+fall through some floors when you weren't supposed to.
+I think I have fixed all these though.
+---------------------------
+6.) Completion
+
+~ = about (rough estimate)
+For the most part, all zones are approximate until 100%.
+Check the chart on my website for more details.
+
+Emerald Hill ----- ~ 50%
+Chemical Plant --- ~ 2%
+Aquatic Ruin ----- ~ 2%
+Casino Night ----- ~ 2%
+Mystic Cave ------ ~ 2%
+Hidden Palace ---- ~ 2%
+Oil Ocean -------- ~ 2%
+Metropolis ------- ~ 2%
+Sky Chase -------- ~ 2%
+Wing Fortress ---- ~ 2%
+Death Egg -------- ~ 2%
+---------------------------
+7.) Special Thanks
+
+SEGA --------- For creating Sonic Team
+Sonic Team --- For Creating Sonic 2
+Beta --------- For creating Sonik Sprite
+Chaos -------- For creating SonEd
+Ultima ------- For updating SonEd
+Gerbil ------- For creating SHWP
+---------------------------
+8.) Last Minute Stuff
+
+Check my website at http://mywebpages.comcast.net/shaun.hamman/TNSSC
+for more info on Sonic Eclipse 2 and other games in the series.
+---------------------------
+9.) Legal Crap
+
+Sonic the Hedgehog and all related criteria are copyright 1992
+Sega Enterprises. TNSSC, Sonic Eclipse 2 and all related criteria
+are copyright 2003 Jaguar Electronics and Shaun "Drakmyth Master" Hamman.

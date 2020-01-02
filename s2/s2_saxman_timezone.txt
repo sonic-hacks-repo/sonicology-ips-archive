@@ -1,0 +1,58 @@
+=============================================================================
+SONIC TIMEZONES
+BETA VERSION - 0.01
+BUILD - 05/19/2002
+=============================================================================
+
+This is a hack for Sonic the Hedgehog 2. It's an attempt to make Sonic 2 into
+an entirely new Sonic game. At the current moment, it's still pretty much the
+same game, but in the future, brand new levels, art, features, etc will be
+introduced. For now though, I am just setting up the game 'structure'.
+
+This version was rushed in many areas in order to prepare it for the Sonic
+ROM hacking contest that Nayr is holding. I appologize if it's not up to the
+best quality that it could be. I hope that you will at least enjoy what I
+have to offer for now.
+
+
+FEATURES:
+- Sonic CD style spindash
+- Super peel-out partially working
+- Time travel in EHZ and OOZ
+- In process of making a level select from the options menu (not working yet)
+- Press A in debug mode while paused and you it takes you to the level select
+- Save game -- go to "2 player vs" to 'continue' your game (Gens recommended)
+- Player icons for Sonic replaced with Sonic CD icons
+- Score/Time/Rings stat art modified
+- "SEGA" sound redone
+- Sonic 2 beta music imported
+- Replaced songs 01, 02, and 12
+
+
+NOTES:
+- To travel to the future, you must be playing either EHZ1 or OOZ1. Don't
+  pass a starpost -- this will cause it not to work. Collect 50 rings (I made
+  this very easy to do) and then pass the future post (it's invisible, but
+  it's there). Then when you see the stars, jump through them. You will be
+  taken to a future version of the level.
+- Songs 18-2F don't work due to some compatability issues.
+
+
+TOOLS USED:
+- Microsoft Visual C++ 6 (hex editor)
+- Sonic Sound Editor
+
+
+THANKS:
+- ArrowE (artwork from screenshots)
+- Esrael (giant gold ring code port -- not used 'yet')
+- Luigi Link (artwork from screenshots)
+- Nayr (allowing me to enter this in his contest)
+- Sonicblur (artwork from screenshots)
+- Tom (artwork from screenshots)
+
+
+CONTACT:
+Website -  http://www.sonichacking.org/
+E-mail - saxman@shentel.net
+ICQ - 8257368

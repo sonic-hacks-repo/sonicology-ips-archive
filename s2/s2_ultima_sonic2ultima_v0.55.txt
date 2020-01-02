@@ -1,0 +1,179 @@
+This is the Readme file for Sonic 2 Ultima v0.55b. Sonic 2 Ultima is a hack of Sonic 2 for 
+Genesis/Megadrive, created by Ultima(That's me) to be enjoyed by the user(That's you).
+
+================
+WHAT IS SONIC 2?
+================
+
+If you found this file by accident, or don't happen to know what game Sonic 2 is, then I'll 
+tell you here. Sonic 2 is the second in the series of Sonic the Hedgehog games(and my personal 
+favorite!). It's got all of the best levels, but unfortunately it doesn't par up with Sonic 3's 
+graphics or sound. What Sonic 2 is to me.... A game me and my brother used to spend 24/7 
+playing when I was 7!
+
+=======================
+WHAT IS SONIC 2 ULTIMA?
+=======================
+
+Sonic 2 Ultima is a modification for Sonic 2. The Sonic 2 ROM must be in BIN format, which 
+means that the file uses no particular byteswapping methods. Instead it is just the Raw ROM 
+image, which is exactly what you have in the original cart. Sonic 2 Ultima is a project to 
+change every level, change the level order, what certain levels look like, some of the speed 
+ratios and the difficulty of the game. It is designed to start easy and get harder and harder 
+until you finally reach the Death Egg, the hardest level I will ever make!
+
+=========================
+HISTORY OF SONIC 2 ULTIMA
+=========================
+
+Sonic 2 Ultima derived from - This WILL scare you - Small paper games using a cut-out Sonic 
+Picture and some dice. From there it became a fully fledged(and fully trashed) MMF Fangame. It 
+then went through the stages of MMF games using ACTUAL Graphics and after that I found the 
+SSRG(or the SSRG might have even found me), and the REAL Sonic 2 Ultima began. That is the one 
+in progress now.
+
+========================
+LATEST VERSION ADDITIONS
+========================
+
+A lot. That's all I can say. A LOT. A savestate is included to allow access to the level 
+select, and I recommend you check it out. If the savestate doesn't work, the level select code 
+is 01, 02, 03, 04.
+
+===============================================================
+ZIP THROUGH THE ZONES, AS THEY PUT IT IN THE MANUAL FOR SONIC 2
+===============================================================
+
+---------------
+SUNNY HILL ZONE
+---------------
+
+It is the summer, and Sonic decides to hang out in his favorite Zone - Emerald Hill. But to 
+his surprise, RObotnik has amplified the heat and made the Zone into a roasting mass of Badniks 
+and Dead grass. Get vengeance on the evil doctor, in much the same way as you would had he not 
+Roasted Emerald Hill!
+
+--------------
+MINE MAZE ZONE
+--------------
+
+After persuing Robotnik down into the caves of Sunny Hill, Sonic found himself falling into a 
+deep pit - Leading to the Mine Maze built by the Ancients 10000 years ago. Can Sonic find all 
+of the secrets?
+
+---------------
+NEO CASINO ZONE
+---------------
+
+Casino Night Zone has been remodeled into the new and improved Neo Casino Zone. But who 
+happens to own it - You guessed it! - Dr Eggman himself. Crash the Casino!
+
+-------------------
+ANCIENT FOREST ZONE
+-------------------
+
+An ancient forest left in the heart of the island. This forest is said to be guarding a great 
+Palace, but no one has ever seen it...
+
+------------------
+HIDDEN PALACE ZONE
+------------------
+
+Until Now! This palace is very mysterious, and even contians a huge highly powered Emerald 
+inside. What could that crystal be for? Only time can tell.
+
+--------------
+OIL OCEAN ZONE
+--------------
+
+Sonic has found the hidden(or maybe not so) base of Robotnik. By pumping Oil into the sea, 
+Robotnik is creating more pollution, made to spead to other areas like the Green Hill Zone 
+across the ocean. Can Sonic stop him Once and For All?
+
+-----------------
+VULCAN PANIC ZONE
+-----------------
+
+Towering over the Oil Ocean base, Mount Vulcan steams and the fiery depths of this volcano 
+contain a precious secret.
+
+----------------
+AUTUMN LAKE ZONE
+----------------
+
+Having found clues as to the whereabouts of Robotnik's Launch Base, Sonic follows them through 
+the mystical lake where the season never changes. This lake runs deep, and you're sure to have 
+to dive into the depths to find the exit.
+
+------------------
+ROBOTECH CITY ZONE
+------------------
+
+Not much is known about Robotnik's twisted Base, but what is certain is that it is huge, and 
+Sonic will need every bit of wit and skill he has gained throughout the long journey here. By 
+far the most complex of Robotnik's plans, but no-one knows where Eggman plans to strike next, 
+could it be that he has decided to blow up his own base?
+
+---------
+SKY CHASE
+---------
+
+As Robotech City is about to self destruct, Robotnik high tails it into his Wing Fortress. 
+Sonic hops onto the Tornado to give chase. Is this the final chapter in the story?
+
+-------------
+WING FORTRESS
+-------------
+
+Sonic hops on board Robotnik's Flying Fortress to find Robotnik, and finally duke it out with 
+him.
+
+--------------
+DEATH EGG ZONE
+--------------
+
+Robotnik's Ultimate Weapon. You'll just have to wait and see about this one....
+
+=======================
+WHY THIS HACK WAS MADE:
+=======================
+
+This hack, and I thank you for your interest, was made for a few reasons. Firstly is I've 
+always wanted to make my own levels for Sonic 2. My brother used to make levels for the Debug 
+Mode in 2 Player, but it wasn't the same. Now with Emulation Technology, I can finally have my 
+dream come true.
+
+=====================================
+NOW THE BORING STUFF'S OUT OF THE WAY
+=====================================
+
+If you don't know how to patch this: 
+
+a) Download Stealth Patch at stealth.emulationzone.org
+
+b) Email me or request on the boards at Sonic Cult : 
+
+http://www.sonic-cult.org/forums/
+
+c) Get a full ROM of this from somewhere.
+
+Using Stealth Patch (Or in fact, any other IPS Patcher), apply the IPS.
+
+Finally, open your emulator of choice and Enjoy Chilled!
+
+=========================================
+CONTACT ME AND TELL ME WHAT YOU THINK!!!!
+=========================================
+
+Generally I'm on Area 51's message board, or I can be emailed of course:
+
+ultima_zero@hotmail.com
+
+Or AIM me: Ultima2876
+
+I also have Hotmail: ultima_zero@hotmail.com
+
+And ICQ: 159407542
+
+Thanks for downloading!
+

@@ -1,0 +1,51 @@
+Heres my 2nd ROM Hack. Yes, I'm still a beginner. This hack is called "Sonic 2 Bad Futures". It has bad futures like in Sonic CD.
+
+
+What you will need:
+
+A Sega Genesis Emulator
+
+A ROM of Sonic 2 in binary format 
+
+An IPS Patcher (Segatool,Stealth Patch,SHWP,etc.)
+
+
+What's been done:
+
+Palettes of every Zone has been changed. (Even Hidden Palace and Wood.)
+
+Playlist editing
+
+
+Game Genie Codes:
+
+Hidden Palace: Enter the code ACLA-ATD4. On the level select, select DEATH EGG.
+
+Wood: Enter the code ACLA-AECY. On the level select, select EMERALD HILL 1.
+
+
+Tools that I used:
+
+ChaoSaX Palette Editor (ssrg.emulationzone.org/chaos)
+
+Sonic Hacking Wiz Pro II (ssrg.emulationzone.org/gerbil)
+
+
+Hacks that'll be released soon:
+
+Ashura the Hedgehog 2 Final
+
+Sonic 3 Bad Futures
+
+Sonic & Knuckles Bad Futures
+
+Sonic 1 Megasis
+
+Ashura the Hedgehog
+
+
+
+This hack was made by me (Donte) donte1@comcast.net
+
+
+That's all for now...have fun...if you can...heh heh heh!

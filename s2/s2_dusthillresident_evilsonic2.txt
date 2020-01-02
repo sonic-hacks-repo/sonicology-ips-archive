@@ -1,0 +1,12 @@
+*****************************************
+* EVILSONIC2 FIRST RELEASE V 0.00*
+*****************************************
+
+Thank you for downloading EVILSONIC2! It is a sprite hack of sonic 2, that makes sonic's eyes red!
+also, while running at full speed, sonic becomes so evil, his eyes start to flash!
+
+I recommend using SEGATOOL to patch this onto your sonic 2 rom.
+
+Thank you :)
+
+- dust hill resident

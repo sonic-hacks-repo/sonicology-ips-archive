@@ -1,0 +1,9 @@
+This is Sonic 2 Take 2! a hack of the famous(and infamous) game called Sonic 2. 
+
+This version includes:
+Lives Icon changed, "TAKE 2" written on title screen, Salus sprites halfway done, palette change for Stardust Zone.
+
+
+I'd like to thank the SSC (because listing your names took too long^_^;), Yuji Naka, the designer of Gens, the designer of TLP, and my dog for helping me work on my game!
+
+--SaLuS

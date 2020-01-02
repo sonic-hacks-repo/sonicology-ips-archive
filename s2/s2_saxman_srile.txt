@@ -1,0 +1,34 @@
+=============================================================================
+SRILE: Sonic ROM Internal Level Editor (for Sonic 2)
+BETA VERSION - 0.01
+BUILD - 05/19/2002
+=============================================================================
+
+INSTALLING:
+Apply SRILE.IPS to your Sonic 2 hack using any IPS patcher. Then, add the
+SRILE.DAT file onto the end of the ROM. Once you do this, check out address
+041C30. Here, you will find 00100000. This is the address it looks at to try
+and find the information from SRILE.DAT. If needed, you can change this so
+that it points to the correct location.
+
+
+USAGE:
+Do NOT load an existing savestate unless you made it with SRILE already
+installed. Enter the game in debug mode. Now press B to change Sonic into an
+object and start placing the objects you want in the desired places. When
+you're done, close the emulator and take a look in the directory that you
+have configured for SRAM files. You'll see one for your hack. Open it in a
+hex editor. Look at address 000400. You'll see all the information logged for
+the objects that you placed on the screen. Although, this is an early beta,
+so unfortunately, it doesn't log the object values, but it does log the X and
+Y positions. All you need to do is fill in the object values, then copy it
+and paste it into the appropriate location in your hack. Make sure that you
+place all objects in the correct order. Also, if you need to make an object
+so that it doesn't respawn (monitors, enemies, etc), you will need to add 80h
+to the upper Y value.
+
+
+CONTACT:
+Website -  http://www.sonichacking.org/
+E-mail - saxman@shentel.net
+ICQ - 8257368

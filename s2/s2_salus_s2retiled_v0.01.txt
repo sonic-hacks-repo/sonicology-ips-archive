@@ -1,0 +1,58 @@
+=======================================================================
+
+ Sonic the Hedgehog 2 Retiled        by Salus, lamer extraordinare   
+
+=======================================================================
+
+This is YET ANOTHER hack of Sonic 2. The only difference between this one and one of the many others you'll encounter (Except for maybe some of OrdosAlpha's or Esrael's) is that instead of being based on level design or sprite changes, this hack is centered on tile editing. I am redrawing the backgrounds and foregrounds to look like totally different zones. Palettes have, and will, be changed to fit the zone, as will music. This is a very early version, so don't expect something amazing just yet.
+
+Enjoy, Salus*
+
+=======================================================================
+
+  ZONE        LAYOUT    PALETTE    TILES
+Sunrise Hill   0%         50%       10%
+Stardust       0%          0%        0%
+Hydro Forest   1%        100%       .5%#
+Rainstorm*     0%          0%       .5%#
+Hill Top       0%          0%        0%
+Sandstone      0%        100%        5%
+Oil Ocean*     0%        100%       10%
+Metal Tower    1%        100%       70%
+Sunset       100%         90%        0%
+Platinum      50%         40%       10%
+Galaxy       100%          0%        0%
+
+As you can see, not much is done.
+
+(*)-Name not changed from earlier version yet/Name glitchy
+
+(#)Changed tiles not to be used in final
+
+I'm trying to figure out how to get rid of the leaf effect in ARZ. If you know how to, please AIM or E-mail me with the answer.
+Also, 2P mode has a problem with backgrounds. I would like to get this fixed if possible, but if not, I will use the 2P mode screens for something else.
+
+=======================================================================
+
+To run this game, patch the IPS patch to a Sonic 2 ROM. Then, add the extra data. I've tested it, and it works as far asI can tell. If you have a problem, please contact me. :)
+
+=======================================================================
+
+I'd like to thank the SSRG, SClassic, the CuLT and SHaC for info I used to make this hack. I'd also like to thank:
+Stealth and Ultima, for their work on SonED
+Nemesis and Beta, for what lies in the next version..
+The TLP, Gens, and XVI32 guys
+Crimsonnugget, for keeping me alert on the #cult IRC channel
+GerbilSoft, for all the ROFLwaffles
+SMTP, Dr. Eggfan, and JohnnyUK for inspiration
+_____, for letting me use their FTP
+Ryoga and Kurai, for.. well, you know.
+
+E-mail me for more info about this hack at: cometind79109@hotmail.com 
+Or AIM: SaLuSofBZ
+
+Thanks for playing!
+
+=======================================================================
+
+1965917

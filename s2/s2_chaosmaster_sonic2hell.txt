@@ -1,0 +1,35 @@
+This is my First hack That i am distributing to the internet.
+
+
+Patch this to an unmodified sonic 2 final rom
+
+Zones that are done
+Emerald Hill
+Chemical plant
+Laybrinth
+Wood 
+****Hidden palace****
+Hill Top
+Genocide City
+Mystic Cave
+Oil Ocean
+Metropolis
+Sky chase
+Wing/Sky fortress
+Aquatic/Neo Green Hill
+Death Egg
+Zones That are being worked on
+Dust Hill
+Death Egg Act 2
+_________________
+What's to be Expected
+Level
+Sprite
+Changes and much more
+______________________
+I give Credit To Esrael for Making ESE
+and Sonic Hacking Comminty for all the hacking info
+You may distribute this freely but you need to give Credit to me 
+
+Have fun,
+Chaos Master

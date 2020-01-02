@@ -1,0 +1,52 @@
+Here is my first major Sonic 2 hack. I call it "Sonic 2 Megasis". It's the Sonic 1 Megasis sequel.
+
+
+What you will need:
+
+A Sega Genesis Emulator
+
+A Sonic 2 ROM in binary format
+
+AN IPS patcher (Segatool, Stealth Patch, SHWP,etc.)
+
+
+What's been done:
+
+Every Zone's palette has been changed.
+
+The playlist has been modified
+
+Hidden Palace and Wood Zone! (I don't know HOW I did that!)
+
+New level design for Death Egg Zone! Check it out!
+
+
+What is needed: 
+
+New level layouts
+
+Complete Hidden Palace and Wood Zone.
+
+
+Tools used to make this hack:
+
+E.S.E. (Esrael Sonic Editor)
+
+ChaoSaX Palette Editor
+
+SonED (I think that was how I got Hidden Palace and Wood)
+
+
+Other Facts:
+
+As for Hidden Palace and Wood,
+
+I probably got that by fooling around with SonED a little bit. I was originally gonna do a new level design for Emerald Hill,
+
+but I decided to save that for the next version. When I used SonED, I played the game in an emulator and saw those 2 Zones on
+
+the level select! But as you can see, the Zones are very incomplete. I will work on them some more in the future...
+
+
+This hack was made by me (Donte) donte1@comcast.net
+

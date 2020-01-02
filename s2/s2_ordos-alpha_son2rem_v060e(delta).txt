@@ -1,0 +1,80 @@
+			SONIC THE HEDGEHOG 2 REMIX
+			Created By: OrdosAlpha & DICS
+
+				CONTENTS
+
+			I.	VERSION HISTORY
+			II.	WHAT IS SONIC 2 REMIX?
+			III.	CREDITS
+			IV.	SPECIAL THANKS
+			V.	COPYRIGHT
+
+				I. Version History
+
+Version	Released				Info
+0.0 	24 Nov ‘94	The Sonic The Hedgehog 2 was released, and recorded the 				highest worldwide sales in video game history. Sonic 2 was the 				only game in the series to be developed by Sonic Team and STI 			(Sega Of America development team). It was also the most 				popular Sonic game in the series.
+0.05 	19 Feb ‘02 	The genesis (quick pun) of Sonic The Hedgehog 2 Remix. 				Emerald Hill, Metropolis, Hill Top and Mystic Cave palette 				changes were completed. 
+0.10  	22 Feb ‘02 	Casino Night, Sky Chase and Wing Fortress palette changes were 			completed.
+0.15	  24 Feb ‘02 	Aquatic Ruin, Chemical Plant and Oil Ocean palette changes were 			completed for Oil Ocean only.
+0.17	 01 Mar ‘02 	Title screen background palette changed slightly. 
+0.20	 02 Mar ‘02 	Mystic Cave 2P, Hidden Palace and Oil Ocean music was 				changed.
+0.23	 05 Mar ‘02 	Chemical plant zone palette has been altered and the Death Egg 				zone palette was changed completely.
+0.25	14 Mar ‘02	Emerald Hill, Casino Night, Metropolis, Sky Chase, Wing Fortress 			and Aquatic Ruin palettes were edited successfully. The icon 				palettes for Emerald Hill, Chemical Plant, Aquatic Ruin, Casino 				Night, Metropolis, Sky Chase, Wing Fortress and Death Egg were 			edited. The title screen palette was also edited.
+0.27	16 Mar ‘02	Oil Ocean palette was edited along with its icon palette.
+0.30	18 Mar ‘02	Oil Ocean palette, Death Egg and Chemical Plant palettes were 				edited.
+0.33	19 Mar ‘02	The icons for Chemical Plant and Death Egg were edited.
+0.35	20 Mar ‘02	Slightly edited Oil Ocean palette.
+0.38	22 Mar ‘02	Edited Chemical Plant and Death Egg palettes. The zone icons for 			Chemical Plant and Death Egg were edited. 
+0.40	28 Mar ‘02	All Sonic palettes were edited, along with minor zone palette edits. 			Sky Chase and Wing Fortress palettes edited. 1 player Special 				Stage palettes were edited.
+0.41	06 Apr ‘02	Underwater palettes for Chemical Plant and Aquatic Ruin were 				edited. All palettes were also edited slightly. Graphic tiles for 				Chemical Plant and Metropolis were edited.
+0.42	12 Apr ‘02	Slight edits to Chemical Plant and Metropolis zones 128x128 tiles.
+0.43	17 Apr ‘02	Graphic tiles and palette for Metropolis were modified slightly.
+0.45	22 Apr ‘02	Casino Night palette was edited slightly.
+0.46	29 Apr ‘02	8x8 graphic tiles for Casino Night have been edited.
+0.47	30 Apr ‘02	Minor changes to Casino Night and Oil Ocean palettes.
+0.48	01 May ‘02	16x16 tiles for Casino Night were edited.
+0.49	02 May ‘02	128x128 graphic tiles for Casino Night have been edited. 
+0.50	03 May ‘02	Casino Night had minor level edits to both acts. Minor 8x8 and 				16x16 tile edits, and several 128x128 tiles were newly inserted. 				Alpha version complete.
+0.50a	08 May ‘02	Slight palette edits to Aquatic Ruin, Mystic Cave, Oil Ocean, 				Metropolis and Wing Fortress. Alpha Revision 1 version 				complete.
+0.51	10 May ‘02	8x8 tiles for Hidden Palace were edited.
+0.52	13 May ‘02	16x16 tiles for Hidden Palace were edited.
+0.53	17 May ‘02	128x128 tiles for Hidden Palace were edited.
+0.53a	21 May ‘02	Edited number graphics.
+0.54	24 May ‘02	8x8 tiles for Wood were edited.
+0.55	26 May ‘02	16x16 tiles for Wood were edited.
+0.56	31 May ‘02	128x128 tiles for Wood were edited. Beta version complete.
+0.56a	06 Jun ‘02		Minor edits to the graphic tiles for Casino Night and Metropolis.
+0.56b	11 Jun ‘02		Minor graphic tile and palette edits for Casino Night.
+0.57	14 Jun ‘02		Hidden Palace act 1 layout was completed - temp layouts.
+0.58	15 Jun ‘02		Hidden Palace act 2 layout was completed - temp layouts.
+0.59	16 Jun ‘02		Wood act 1 layout was completed - temp layouts.
+0.60	17 Jun ‘02		Wood act 2 layout was completed - temp layouts. Delta version 				complete.
+0.60a	08 Aug ‘02	Edited numbers for lives counter.
+0.60b	21 Oct ‘02	Inserted new title cards.
+0.60c	23 Oct '02		Slight edit title cards.
+0.60d	25 Oct '02		Inserted Beta Oil Ocean Background.
+0.60e	01 Dec '02	Minor palette edits and new tiles inserted into Azure Coast.
+
+			II. What Is Sonic 2 Remix?
+
+Sonic The Hedgehog 2 Remix is a hack of Sonic The Hedgehog 2. The aim is to insert three brand spanking new zones, Dust Valley (winter/ice based zone), Cactus Plains (Dust Hill from Sonic 2 concept art) and Genocide City (based on Scrap Brain and Launch Base), along with the two zones cut from Sonic 2 Beta, Hidden Palace and Mech Forest (Wood). Several zones will have their art altered, so far Casinopolis and Death Egg are the only zones planned to have art alterations, but others may follow. New palettes and zone layouts will also be implemented along with the addition of new music tracks for the new zones (hopefully that is).
+
+				III. Credits
+
+		DICS (Dangerous Illusionary Creative Software) Inc.
+
+		Planner & Hacking 			Ordosalpha
+		Tile Design		Ordosalpha & AlphaOmega
+		Testers			Ordosalpha & AlphaOmega
+											
+				IV. Special Thanks
+
+			Gerbil - Sonic Hacking Wiz Pro II
+			Stealth - Stealth Patch and SonED
+			JohnnyUK - FTP space
+
+				V. Copyright
+
+Sonic The Hedgehog 2 Remix © 2002 DICS Inc.
+Sonic The Hedgehog 2, Sonic, Tails, Robotnik and all relevant characters © 1992-2002 Sonic Team 
+SEGA, the Sega logo, Mega-Drive and Genesis are registered trademarks of Sega Enterprises Inc.

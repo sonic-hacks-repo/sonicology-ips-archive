@@ -1,0 +1,116 @@
+=-=-=-=-=-=-=-=-=-=
+Sonic 2 ALPHA Hoax
+=-=-=-=-=-=-=-=-=-=
+
+Table of Contents:
+
+1. Introduction
+2. How to patch a ROM image
+3. The final goal of the hoax
+4. Copyright
+5. Staff
+
+1. Introduction
+
+Welcome to the first readme design of the Sonic 2 alpha hoax! "Why am I
+making this?" you may ask.  Because I've noticed that many sites are
+taking the hoax and calling it the final.  Any site who releases this
+hack must include this readme, unchanged in any form.  If you know a
+site that has this without this readme or changed wording, notify me so
+I can notify SEGA of the illegal fiends.  I'm also making this as
+something fun to read before playing the game and what to look forward
+to (I had someone say it was a game with a deleted Wood Zone and
+nothing else impressive).  Of course, that's what it is at the moment,
+but it will be a reasonable facsimile to the final when completed.
+Until then, enjoy the new changes that I've made and be patient for the
+next release (which should be from 1 month at the minimum to 6 months
+at the maximum).  Bye ;) !!
+
+2. How to patch a ROM image
+
+I've recieved countless numbers of complaints about me using a patching
+system to release the hoax.  I agree it's a hassle and releasing a ROM
+image would be easier, but ROM images are illegal.  Yes, that means I'm
+breaking the law by hacking it.  If sega request it, I'll destroy all
+traces of the patch and the game off my computer's hard drive.  Until
+then, I'm not putting something illegal out for you to download.  If
+any of you would like to host the ROM on your site and give me the link
+to it, I will link to your site so the ROM can be obtained.  Anyway,
+here's how to patch stuff using Segatool.  If there's demand, I'll
+include SAX patching also (which is much more efficient than Segatool).
+
+1. Shut down into DOS, because it's a DOS program.  Running it in
+   Windows can create problems.  After all, it's not like Windows is
+   meant to help you at all.
+
+2. Go to the directory at the DOS prompt that it's in.  For example if
+   the directory it's in is segatool type "cd segatool".
+
+3. Type segatool into the DOS prompt.
+
+4. Go to "Use IPS" and hit enter / return.
+
+5. Choose IPS from the directory it's in on the left side of the screen
+
+6. Now choose the game to patch it to from the proper directory.  Make
+   sure the file is in *.bin form.  You can do this by going into
+   Genecyst, opening up Sonic 2, and going to the following menus:
+
+	CPU > Dump > ROM
+   
+   Rename the file Sonic2a.bin and then repeat the process and choose
+   Sonic2a.bin as the game to patch it to.
+
+7. Quit Segatool and run the game in Genecyst and you should have the
+   hoax.  The easiest way to tell is if it appears as the beta would,
+   not the final.  If it doesn't work, try again.  If it still doesn't
+   work, wait for a link to the ROM.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=
+The final goal of the hoax
+=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The final goal is to make something that will give players what we've
+looked for.  A playable alpha of Sonic 2.  This will be as close as I
+can get, making about 5 new levels and two new level layouts.  Here's
+the order that the following updates will come in:
+
+This release:
+
+1. Miscellaneous changes to cause normal S2B savestates to go haywire
+when loading my stuff.
+2. HPZ's new level layout.
+3. Invisible Tails sprites (eventually tails will be gone).
+4. HPZ layout finished (the level loops vertically both on the bottom
+   and top of the screen!  You can make it to the end of the level!)
+
+Release 5:(ET: 1 month)
+
+1. HPZ's new object layout.
+2. New sprites implemented.
+3. Bugs fixed
+
+=-=-=-=-=-=-=-=-
+Copyright
+=-=-=-=-=-=-=-=-
+
+This hack and all related things in it are (c) 2000 Nayr T'nargh (James
+R. Grant).  All characters are (c) 1991 SEGA Enterprises.  The graphics
+are copyrighted to them too theoretically, but HPZ's and WZ's are not
+because they never released the graphics for those levels.  WZ's
+pallete is (c) 1992 SEGA Enterprises, because it can be found in the
+final.  The sprite and ring layout of HPZ is copyright SEGA and the 
+name is too.  This about sums up all the stupid disclaimer stuff (it's
+illegal after all, so I can only protect myself so much!).  I'm not
+responsible if this harms you, your family, your pet, your right toe
+nail, your computer, or anything else you can think of.  I'm not
+responsible if an alien space ship lands in your yard and abducts you.
+You agree to these terms by using this hack.  Thankyou!
+
+=-=-=-=
+Staff
+=-=-=-=
+
+Nayr T'nargh - the main hacker at the moment
+Tails - may do sprite editing and level editing in future versions
+Cameron - research

@@ -1,0 +1,36 @@
+This is Ashura the Hedgehog 2 (Beta). This is my first ROM hack. It's a basic palette hack. Also Title Cards.
+
+What you will need:
+
+A Sega Genesis Emulator
+
+A Sonic 2 Beta ROM in binary format
+
+An IPS Patcher (Segatool, Stealthpatch,etc.)
+
+
+What's been done:
+
+Palettes of every Zone have been changed
+
+Sonic's palette was changed
+
+Title Cards (by Esrael)
+
+
+What's needed:
+
+Different level layouts
+
+Music Changing
+
+More Badniks
+
+Sonic's palette changed on Title Screen
+
+
+This hack was made by me (Donte) donte1@comcast.net
+
+
+That's all for now...have fun...if you can...heh heh heh!
+
