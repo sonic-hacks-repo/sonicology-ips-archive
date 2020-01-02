@@ -1,0 +1,26 @@
+==============================
+AMY ROSE IN SONIC THE HEDGEHOG
+==============================
+
+This is the first IPS patch of my hack, Amy in Sonic the Hedgehog,
+wich allows you to play the Sega Genesis game Sonic the Hedgehog
+as Amy Rose, the pink hedgehog from Sonic CD.
+
+I made this hack as a "test" with Beta's SONIK Sprite.
+
+To use it, apply the IPS patch to a Sonic the Hedgehog (Sonic 1)
+ROM and load it in any Genesis emulator, like GENECYST or GENS.
+
+ ________________________________________________________________
+|                                                                |
+|*C*R*E*D*I*T*S*:                                                |
+|                                                                |
+|Saturn WoD (myself)          - the one who hacked the rom       |
+|      saturnwod@hotmail.com                                     |
+|                                                                |
+|SONIK Sprite Editor          - used to edit the sprites         |
+|      http://www10.brinkster.com/johnnyuk/                      |
+|                                                                |
+|Sonic ROM Hacking Wiz Pro II - used to edit the game palletes   |
+|      http://ssrg.emulationzone.org/gerbil                      |
+|________________________________________________________________|

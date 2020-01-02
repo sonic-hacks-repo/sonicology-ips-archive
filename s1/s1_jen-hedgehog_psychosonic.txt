@@ -1,0 +1,25 @@
+**Psycho Sonic The Hedgehog ReadMe**
+
+-----
+
+Psycho Sonic was created by Jen Hedgehog (aka Jen Kitsune) in March 2002.
+
+-----
+
+Psycho Sonic is a basic hack of Sonic 1 that I made using Sonic The Hedgehog Hacking Wiz Pro. 
+It is a palette hack with a few other things edited as well, such as the level select text.
+If you wish to make this ROM hack available to download on your Website, please email me at 
+jen_hedgehog@hotmail.com to ask for permission.
+
+-----
+
+To use this ROM, you need to unzip the IPS patch and patch a normal 
+Sonic 1 ROM with it (you will need to use a patching program, such as SegaTool, to do so).
+
+-----
+
+Psycho Sonic is a charater that I made up, so please don't use his sprite in any games without asking me.
+Thanks :)
+
+-----
+

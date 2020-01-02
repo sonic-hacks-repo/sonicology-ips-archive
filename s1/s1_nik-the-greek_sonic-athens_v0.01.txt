@@ -1,0 +1,15 @@
+----------------------------------------
+NiktheGreek's Sonic 1 hack! v 0.01
+----------------------------------------
+
+Hey there, this is my first properly released hack!
+
+It's just a palette hack of S1 currently, but further down
+the line I intend to add some level designs. Anyhow, have
+fun with the small changes.
+
+Special thanks to anyone who checked out the palettes
+before release, and to anyone who actually bothers to apply
+this patch.
+
+- NiktheGreek (boring hacker extraordinaire!)

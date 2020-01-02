@@ -1,0 +1,23 @@
+Patch for Knuckles' Chaotix to enable level select and Debug Mode
+
+ChaotixUSA_stealth_debugmenu.ips should be applied if you are using a USA version ROM
+ChaotixPAL_stealth_debugmenu.ips should be applied if you are using a PAL version ROM
+
+If neither of these patches work on your ROM, please alert me, as there may be at least one more version.
+
+These patches alter the instructions that check whether the code is on or off. All checks for on were changed to check for off, and all off's were changed to check for on, thus, the game acts as if you had activated the codes.
+
+Level select will be an option on the main menu, and contains options for switching both players, the level, and the time of day.
+
+Debug mode is activated during play by pressing Pause, and works in the same way as "Sonic Crackers", the player moves freely during a pause, and the coordinates are displayed. This is unlike the other Sonic "Debug modes" though, in that it doesn't allow placement of objects.
+
+Special thanks to LOst for providing me with the addresses that toggle the codes
+Special thanks to Tim Meekins (author of retrodrive), the debugger was very helpful here
+
+Any questions or comments:
+MStealthA@aol.com
+
+http://stealth.emulationzone.org  /  http://www.spores.net/OrganizedChaos
+http://ssrg.emulationzone.org
+
+Enjoy!

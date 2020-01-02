@@ -1,0 +1,56 @@
+*SONIC THE HEDGEHOG BETA HOAX*
+Created by NeoSonic
+-----------------------------------------------------------------------
+NOTE: This is NOT a real Beta ROM. It is a HOAX. It is NOT REAL.
+Understand?
+
+INSTRUCTIONS: This is not a ROM, it is an IPS patch, so you need to
+apply it to an UNCHANGED Sonic 1 ROM, in binary format. If you
+encounter any problems, feel free to e-mail me at PPeak@aol.com :)
+
+*This is basically my attempt to recreate Sonic 1 Beta, using info
+gathered from magazine screenshots and other sources.
+Here is what has been changed:
+
+Level Select changed so:
+Scrap Brain Zone now becomes "Clockwork Zone"
+Spring Yard Zone now becomes "Sparkling Zone"
+Final Zone is now SBZ Act 3
+...and SBZ3 Act 3 is now Labyrinth Act 4 (confused yet?)
+
+Title screen BG is now 100% black, "Press Start Button" has been
+enabled
+
+Green Hill Zone now has a night-time background, flowers are purple
+(like in the ending), and the pink rocks are now brown.
+
+Marble Zone's palette is now blue, as opposed to purple...
+
+Spring Yard Zone becomes "Sparkling Zone", with a night-time background.
+
+Labyrinth Zone's background is now 100% black.
+
+Title Cards have been disabled
+
+Used Iceknight's cool IPS patch which causes Sonic to warp and
+disappear for a few seconds (this was originally how he was
+going to get to the Special Stage)
+
+*Well, that just about wraps it up, thanks for playing! :)
+-----------------------------------------------------------------------
+
+*Special thanks:
+*Gerbil, for Sonic Hacking Wiz Pro, the tool I used to edit the palettes
+and other miscellaneous things :)
+*Iceknight, for creating the "Sonic Warp" IPS patch, used in this hack.
+*Hivebrain, for his cool site where I gathered most of the information
+about Sonic 1 Beta to create this hack. You can visit the site at:
+http://sonicology.fateback.com
+
+This hack was created in May 2002 by NeoSonic. E-mail me any comments
+or queries you may have at:
+PPeak@aol.com
+
+And coming soon...
+Sonic 2: Special Edition! :)
+-----------------------------------------------------------------------

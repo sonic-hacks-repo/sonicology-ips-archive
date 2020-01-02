@@ -1,0 +1,68 @@
+			Sonic Remix (Ver. 0.40b)
+		         Created by: OrdosAlpha (OrdosBeta)
+
+		Info
+
+The hack is compatible with the Japanese revised version of Sonic The Hedgehog.
+
+		Progress
+
+All the palettes have been changed, with exception to the Special Stage palettes, the title 
+cards have all been changed and the level select text. No level layout have been carried as of 
+yet as I'm concentrating on my Sonic 2 Remix hack at this moment in time, but when its 
+completed i come back and finish the hack.
+
+		The Zones
+
+Lakeside Hill
+Zip through the sunset paradise by the lake, but beware of the spikes and Robotnik's badniks.
+
+Magma Ruins
+Explore the magma laiden palace ruins atop the volcano of Mt. Mobius. Just watch you don't end 
+up being barbecued alive.
+
+Spring Heights
+Bounce through the pinball-esque mountain town of Spring Heights.
+
+Hydropolis
+You better remember to bring along you're Scuba gear, as you explore the watery depths of these 
+submerged ruins.
+
+Night Light Park
+Speed through the loops of this long deserted theme park. But watch you're step, as some of the 
+gloors don't appear to be very safe.
+
+Genocide City
+Welcome to the mechanical monstrosity of Genocide City. Dodge the flame throws and outrun the 
+saw blades as you search out the mad doctor. But one thing to look out for is the toxic 
+chemical known as Mega Mack, one of Robotnik's more sinister creations, it could lead to your 
+death, but who cares, you're only one step away from you're final confrontation with the mad 
+doctor.
+
+How To Patch
+
+Before we begin I advise you to use Stealth Patch, as no other patching utility is compatible. 
+And I expect you know how to use Stealth Patch as the following will only advise which patch to 
+use for the correct Sonic ROM.
+
+International/US Sonic ROM
+
+Use the SonRem-Int ROM Ver.ips file in the US folder and patch it a clean Sonic ROM, and when 
+asked if you wish to add a extra data file, select yes and select SonRem-Int ROM Ver.bin. Now 
+play Sonic Remix in the best emu around, Gens.
+
+Japanese Sonic ROM
+
+Use the .ips file in the Jap folder and patch it a clean Sonic ROM, and when 
+asked if you wish to add a extra data file, select yes and select the .dat file.
+Now play Sonic Remix in the best emu around, Gens.
+
+		Thanks
+
+		Stealth - Stealth Patch
+		Esrael - Sonic hacking notes
+		Gerbil - Sonic Hacking Wiz Pro
+		AlphaOmega (mate of mine) - palette ideas
+		JohnnyUK - FTP space *update*
+
+

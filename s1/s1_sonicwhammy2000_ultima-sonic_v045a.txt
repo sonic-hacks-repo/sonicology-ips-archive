@@ -1,0 +1,85 @@
+------------------------
+ULTIMA SONIC README FILE
+------------------------
+
+**************
+What is Sonic?
+**************
+
+Sonic means Sonic the Hedgehog, and unless you've lived in a cave all your life, you'd know that Sonic the Hedgehog is a very famous video game series in a league with Mario, Crash Bandicoot, Donkey Kong, etc.
+
+*******************************************************************
+So I know what Sonic is, but what in Heaven's name is Ultima Sonic?
+*******************************************************************
+
+Ultima Sonic is a hack of the original Sonic the Hedgehog game for Genesis. Palettes have been edited, Sonic looks better (in my opinion), and, the most obvious thing, the level layout has been changed. It's the ultimate challenge for any Sonic the Hedgehog fan!
+
+********************************
+What's new in Version 0.1 alpha:
+********************************
+
+The first release! Purple Hills Act 1 100% complete! Nothing else completed... yet.
+
+*******************************************
+What's New in Version 0.45 Alpha New Release
+*******************************************
+
+Purple Hills Zone Complete! Yes, it did take a while, but check out the results! Gaslight font ditched, and better sprite placement. ESE got an upgrade and now I'm able to actually see what I'm doing (a lot of the sprites were shown as a question mark before, mainly level specifics). Title Cards have finally been changed (although I had to change several level names, mainly those with J, Q, V, W, or X in them). Several palettes have been loaded, mainly Atlantis Lake, Emerald Casino, and Robotropolis Act 1 (as well as the ending sequence!). I have also updated Sonic's palette in the Special Stage, Continue Screen, and Ending Sequence to match his in-game palette. Check out the screen you get if you lose a Special Stage with no emeralds: I've made it say "Emerald Land"! (although, for reasons unknown, the A and L in "Emerald" are too close together. I'm working on a way to fix that.) 
+
+******************
+The Story Thus Far
+******************
+
+The evil Dr. Ivo Robotnik, the mad scientist that has tried to crush, and has been crushed by, Sonic the Hedgehog and his numerous allies for 12 years now, may have finally found a way to put the world right in the palm of his hands! He's invented the Reality Editor, a contraption that is so powerful, it can rip straight into the very fabric of reality and change anything it wants! It's already completely deformed South Island, but in order to use it for world domination, the Eggman must have a certain 6 gems that lie on the island. Though powerful, the Reality Editor could not change the dimension that the Chaos Emeralds lie in. However, with the land changed to Eggman's advantage, he can get anything he wants! The Special Zones shouldn't be any trouble at all!
+
+However, ironically enough, our beloved speedy blue hedgehog has returned to South Island, expecting a long-overdue vacation on a tropical paradise. But what he finds isn't exactly vacation material. Alien plants, ruined forests, and more Badniks than you can shake a stick at have invaded the island once again! Sonic gets a move on right away!
+
+However, deep inside Eggman's Robotropolis, the Reality Editor sleeps, guarded by the resurrected Contraption from Hell....
+
+*************************
+The Zones of Ultima Sonic
+*************************
+
+PURPLE HILLS ZONE:
+
+Alien grass and tall clifftops fill this zone to the brim. Get as many Rings as you can; there are hundreds lying around the area! Hint: if you don't know who D-12 is, you'll never get the pun hidden in this Zone.
+
+ATLANTIS LAKE ZONE:
+
+The former Labyrinth Zone has sunken further, so almost all of it is submerged. Don't drown in these ruins!
+
+MAGMA HILLS ZONE:
+
+Just when the inhabitants of the Marble Zone thought the lava was all gone, the Reality Editor caused another eruption! Jump over lava pits and delve deep into dungeons to escape this volcanic terror-fest!
+
+COSMIC CITY ZONE:
+
+The Star Light Zone now has more twists, turns, and pits than ever before! Thanks loads, Reality Editor...
+
+EMERALD CASINO ZONE:
+
+The Spring Yard Zone now has more bumpers, springs, and ramps than ever before. Sound's fun, right? Not quite, as not all of this zone is fun and games! Hint: The first part of Act 1 resembles the first part of a different zone from another Sonic game....
+
+ROBOTROPOLIS ZONE:
+
+You've made it to Robotnik's brand new fortress, and it's a doozy! Don't expect a cakewalk here!
+
+FINAL FIGHT ZONE:
+
+It's deja vu as you fight the contraption that guards the machine that caused all this chaos in the first place. Good Luck!
+
+***************************
+Special Thanks & Copyrights
+***************************
+
+For level desing and palette editing, I thank 3 people: me, myself, and I. Stop trying to take credit for what they did.
+
+However, I would like to thank Esrael L.G. Neto for both a copy of Esrael Sonic Editor, and also Stealth for Stealth Patch and SonED (with it I can finally begin work on the Atlantis Lake Zone!).
+
+If you download Ultima Sonic and then try to pawn it off as your own, I unfortunately can't beat you to a bloody pulp with a baseball bat. But I can take legal action (think sue). See you in court, jerk.
+
+Did I ever say I created Sonic the Hedgehog and all related characters? No. Leave me alone.
+
+Have fun!
+
+This is SonicWhammy2000, signing off.

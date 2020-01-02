@@ -1,0 +1,60 @@
+This is my first Sonic 1 hack! It's the 4th Sonic 1 Beta Hoax Every made!
+
+
+What you will need:
+
+A Sega Genesis Emulator
+
+An IPS Patcher (Segatool, Stealth Patch, etc.)
+
+A Sonic 1 ROM in Binary format
+
+
+What's been done:
+
+Palettes of every Zone has been changed (Except for Star Light Zone)
+
+Level Select text edited
+
+Gaslight Title Cards (by Esrael)
+
+Title Screen Palette is black (along with the "Press Start Button" message)
+
+Warping (by IceKnight)
+
+
+What is needed:
+
+Yadrin in the Marble Zone
+
+Caterkillar and Motor Bug in the Sparkling Zone (Spring Yard)
+
+Better palette for Clock Work Zone (Scrap Brain)
+
+Removal of water from Title Screen
+
+New level layout design
+
+
+Tools that I used:
+
+ChaoSaX Palette Editor
+
+Sonic Hacking Wiz Pro II
+
+E.S.E. (Esrael Sonic Editor)
+
+
+This hack was made by me (Donte) donte1@comcast.net
+
+
+Please keep in mind that this is NOT the real Sonic 1 Beta. That's why it's called "Sonic 1 Beta Hoax".
+
+I'm still a beginner at this stuff, so don't E-mail me saying that this hack sucks (unless you could do a better one)
+
+
+That's all for now...have fun...if you can...heh heh heh! 
+
+
+
+
